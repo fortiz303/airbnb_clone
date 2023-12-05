@@ -32,7 +32,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/aressss1/airbnbb-clone.git
+git clone https://github.com/fortiz303/airbnb_clone.git
 ```
 
 ### Install packages
